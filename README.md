@@ -22,7 +22,7 @@ The goal of this repository is to build a strong understanding of NumPy concepts
 
 | Day   | Topics Covered 
 | ----- | -------------- 
-| Day 1 |                 
+| Day 1 |  NumPy_Basics               
 
 ---
 
