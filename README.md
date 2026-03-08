@@ -22,11 +22,11 @@ The goal of this repository is to build a strong understanding of NumPy concepts
 
 | Day   | Topics Covered 
 | ----- | -------------- 
-| Day 1 |  NumPy_Basics               
+| Day 1 |  NumPy_Basics      
+| Day 2 |  Numpy_creation         
 
 ---
 
 ## 👨‍💻 Author
 
 This repository is part of my learning journey in Python and NumPy.
-
