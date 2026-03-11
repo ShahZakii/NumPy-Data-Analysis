@@ -23,7 +23,8 @@ The goal of this repository is to build a strong understanding of NumPy concepts
 | Day   | Topics Covered 
 | ----- | -------------- 
 | Day 1 |  NumPy_Basics      
-| Day 2 |  Numpy_creation         
+| Day 2 |  Numpy_creation    
+| Day 3 |  Numpy_Dimension      
 
 ---
 
