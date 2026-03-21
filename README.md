@@ -26,6 +26,7 @@ The goal of this repository is to build a strong understanding of NumPy concepts
 | Day 2 |  Numpy_creation    
 | Day 3 |  Numpy_Dimension      
 | Day 4 |  Numpy_Special_Array
+| Day 5 |  Numpy_Random_Valued_Array 
 
 ---
 
