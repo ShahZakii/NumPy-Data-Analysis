@@ -28,6 +28,7 @@ The goal of this repository is to build a strong understanding of NumPy concepts
 | Day 4 |  Numpy_Special_Array
 | Day 5 |  Numpy_Random_Valued_Array 
 | Day 6 |  Numpy_DataTypes_Numpy
+| Day 7 |  Numpy_Indexing
 
 ---
 
