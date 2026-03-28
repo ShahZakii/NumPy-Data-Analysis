@@ -33,6 +33,7 @@ The goal of this repository is to build a strong understanding of NumPy concepts
 | Day 9 |  Numpy_Shape_Manipulation
 | Day 10|  Numpy_Aggregate_Function
 | Day 11|  Numpy_Copy_vs_View
+| Day 12|  Numpy_Join_Split
 
 ---
 
