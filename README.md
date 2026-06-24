@@ -39,4 +39,4 @@ The goal of this repository is to build a strong understanding of NumPy concepts
 
 ## 👨‍💻 Author
 
-This repository is part of my learning journey in Python and NumPy.
+ZAKI SHAH
